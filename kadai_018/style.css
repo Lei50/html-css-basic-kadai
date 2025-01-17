@@ -1,3 +1,12 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 垂直方向の中央揃え */
+    align-items: center; /* 水平方向の中央揃え */
+}
+
+
 #top{
 width: 800px;
 margin-top: 20px;
